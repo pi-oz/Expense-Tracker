@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox,ttk
 import pandas as pd
 import matplotlib.pyplot as plt
-import io
+
 cexpense=0
 income=0
 remaining=0
