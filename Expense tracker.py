@@ -78,6 +78,7 @@ Transfer a portion to savings
 OTT, apps, games, etc.
 Ask:
 Am I actually using this?
+
 🏦 8. Use Separate Accounts
 One account → spending
 One account → savings
