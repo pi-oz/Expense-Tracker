@@ -1,7 +1,6 @@
 import pandas as pd 
 import tkinter as tk
 from tkinter import messagebox,ttk
-import pandas as pd
 import matplotlib.pyplot as plt
 
 cexpense=0
